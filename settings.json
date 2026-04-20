@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "8-11-9V3d.aternos.me:12169",
+    "ip": "8-11-9V3d.aternos.me",
     "port": 12169,
     "version": "1.21.11",
     "try-creative": false
